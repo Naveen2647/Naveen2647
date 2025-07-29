@@ -9,7 +9,7 @@
 
 - 💼 I'm a **Java Developer** focused on backend systems  
 - 🛠️ Skilled in **Java, Spring Boot, SQL, Web Technologies**  
-- 🌱 Currently learning **Microservices, Spring Security, and JWT**  
+- 🌱 Currently learning **Microservices, Spring Security**  
 - 🚀 Passionate about solving real-world backend challenges  
 - 🤝 Open to collaboration and backend-focused projects
 
@@ -54,14 +54,14 @@ Track income, expenses, and financial goals with a MySQL database backend.
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-inchal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inchalnaveen@.com)
 
 ---
 
 ### 🌱 Currently Learning
 
 - Microservices with Spring Boot  
-- Spring Security & JWT  
+- Spring Security   
 - Clean Code & Best Practices
 
 ---
