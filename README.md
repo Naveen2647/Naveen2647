@@ -40,14 +40,13 @@
 > 🔸 Provided offline, remote access without needing the internet or UI  
 > 🔸 Promotes automation in agricultural irrigation systems
 
-#### 💰 Personal Finance Management System
-> A **full-stack web application** to manage personal income, expenses, and goals.  
+#### 🧠 Quiz Application
+> A **full-stack web application** for taking quizzes, managing questions, and tracking scores.  
 > 🔸 **Tech Stack**: Java, Spring Boot, React.js, MySQL  
-> 🔸 Implemented JWT authentication and role-based access for secure login  
-> 🔸 Designed REST APIs for CRUD operations on finance data  
-> 🔸 Built a responsive frontend and handled state management in React
+> 🔸 Developed RESTful APIs for quiz creation, scoring logic, and submissions  
+> 🔸 Enabled secure role-based access for admin and users  
+> 🔸 Used SQL for storing questions, results, and user data efficiently
 
----
 
 ### 📫 Connect with Me
 
